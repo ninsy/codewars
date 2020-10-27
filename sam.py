@@ -1,5 +1,6 @@
 # https://www.codewars.com/kata/54c1bf903f0696f04600068b/train/python - 4kyu
 
+# Test
 class Machine(object):
     
     REGISTERS = ['a', 'b', 'c', 'd']
